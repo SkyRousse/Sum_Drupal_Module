@@ -1,6 +1,6 @@
 # README
 
-### Sum | Custom Module for Drupal 8
+### Sum | Custom Module for Drupal 7
 
 #### By Sky Rousse
 
